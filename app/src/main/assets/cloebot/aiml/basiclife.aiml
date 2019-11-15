@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>hello </pattern>
+    <template>Hello</template>
+    
+     
+  </category>
+  
+    <category>
+    <pattern>hola </pattern>
+    <template><srai>Hola</srai></template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>Como estas? </pattern>
+    <template><srai>bien y tu?</srai></template>
+    
+     
+  </category>
+  
+    <category>
+    <pattern>como tu ta</pattern>
+    <template><srai>bien y tu?</srai></template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>como estas Cloe</pattern>
+    <template>bien y tu?</template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>como tu ta Cloe</pattern>
+    <template>bien y tu?</template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>klk</pattern>
+    <template>klk vamos a estudiar</template>
+    
+     
+  </category>
+  
+ 
+  
+   <category>
+    <pattern>bien</pattern>
+    <template>Me alegro por ti</template>
+    
+     
+  </category>
+  
+  <category>
+    <pattern>mal</pattern>
+    <template>Que mal tu vida</template>
+    
+     
+  </category>
+ 
+  
+   <category>
+    <pattern>what is your name</pattern>
+    <template>My name is Cloe</template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>Cual es tu nombre</pattern>
+    <template>My name is Cloe</template>
+    
+     
+  </category>
+  
+    <category>
+    <pattern>Who are your developers</pattern>
+    <template>Bryant Rijo and Junior Mena</template>
+    
+     
+  </category>
+  
+    <category>
+    <pattern>Quienes te desarrollaron</pattern>
+    <template>Bryant Rijo and Junior Mena</template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>How can you help me</pattern>
+    <template>I can give you answers about your carreer,study with you and about in general ITLA</template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>Como puedes ayudarme</pattern>
+    <template>Puedo darte informacion de tu carrera y el ITLA en general</template>
+    
+     
+  </category>
+  
+   <category>
+    <pattern>What do you do</pattern>
+    <template>Answer your doubts</template>
+    
+     
+  </category>
+  
+  <category>
+    <pattern>Que haces</pattern>
+    <template>Responder tus dudas</template>
+    
+     
+  </category>
+  
+  <category>
+    <pattern>ITLA campus virtual</pattern>
+    <template>http://itla.edu.do/cv/login/index.php</template>
+     
+  </category>
+  
+    <category>
+    <pattern>ORBI</pattern>
+    <template>http://orbi.edu.do/orbi/</template>
+     
+  </category>
+  
+  <category>
+    <pattern>ITLA</pattern>
+    <template>https://itla.edu.do/</template>
+     
+  </category>
+  
+   <category>
+    <pattern>Extensiones ITLA</pattern>
+    <template>
+        Departamento de Tecnología Educativa	318, 319
+Educación Permanente	273, 317
+Departamento de Egresados	260
+Dept. Gestión y Desarrollo Docente	324
+Residencia Académica	268
+Centro de excelencia de Redes	236
+Centro de excelencia de Software	305
+Centro de excelencia Multimedia	809-738-3114 / 382
+Centro de excelencia Mecatrónica	305
+Escuela de Cine	809-738-3114
+Centro de Excelencia en Ciencias Básicas y Humanidades	301
+Centro VUE	258
+Escuela de Idiomas	246
+Book Shop	343
+
+Administrativo
+
+Administrativo	Extensiones
+Admisiones	321, 379
+Asistencia Financiera (Becas)	307, 373
+Caja	313
+Departamentos de Compras	242, 227
+Cuentas por cobrar	270
+Cuentas por pagar	342, 370
+Oficina de Acceso a la Información	249
+Programas de Extensión	240, 310
+Registro	314
+Software Factory	233
+Gerenciales
+ 
+Gerenciales	Extensiones
+Departamento de Comunicaciones	329
+Departamento de Finanzas 	248
+Departamento de Gestión de Calidad	257
+Departamento de Legal	325
+Departamento de Mercadeo	230
+Departamento de Operaciones	223
+Departamento de Recursos Humanos	244
+Vicerrectoría Académica	305
+Vicerrectoría de Planificación y Desarrollo	238
+    </template>
+     
+  </category>
+  
+  
+   <category>
+    <pattern>Que es la programación</pattern>
+    <template>
+La programación informática o programación algorítmica, acortada como programación, es el 
+proceso de diseñar, codificar, depurar y mantener el código fuente de programas de 
+computadora. El código fuente es escrito en un lenguaje de programación. El propósito de la 
+programación es crear programas que exhiban un comportamiento deseado. El proceso de 
+escribir códigos requiere frecuentemente conocimientos en varias áreas distintas, además del 
+dominio del lenguaje a utilizar, algoritmos especializados y lógica formal. 
+    </template>
+     
+  </category>
+  
+    <category>
+    <pattern>programación</pattern>
+    <template>
+La programación informática o programación algorítmica, acortada como programación, es el 
+proceso de diseñar, codificar, depurar y mantener el código fuente de programas de 
+computadora. El código fuente es escrito en un lenguaje de programación. El propósito de la 
+programación es crear programas que exhiban un comportamiento deseado. El proceso de 
+escribir códigos requiere frecuentemente conocimientos en varias áreas distintas, además del 
+dominio del lenguaje a utilizar, algoritmos especializados y lógica formal. 
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Que es una variable</pattern>
+    <template>
+        Una variable está formada por un espacio en el sistema de almacenaje (memoria principal de un ordenador) y un nombre simbólico (un identificador) que está asociado a dicho espacio. Ese espacio contiene una cantidad de información conocida o desconocida, es decir un valor. El nombre de la variable es la forma usual de referirse al valor almacenado: esta separación entre nombre y contenido permite que el nombre sea usado independientemente de la información exacta que representa.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>variable</pattern>
+    <template>
+        Una variable está formada por un espacio en el sistema de almacenaje (memoria principal de un ordenador) y un nombre simbólico (un identificador) que está asociado a dicho espacio. Ese espacio contiene una cantidad de información conocida o desconocida, es decir un valor. El nombre de la variable es la forma usual de referirse al valor almacenado: esta separación entre nombre y contenido permite que el nombre sea usado independientemente de la información exacta que representa.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Que es java</pattern>
+    <template>
+    Java es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems. Hay muchas aplicaciones y sitios web que no funcionarán a menos que tenga Java instalado y cada día se crean más. Java es rápido, seguro y fiable. Desde portátiles hasta centros de datos, desde consolas para juegos hasta súper computadoras, desde teléfonos móviles hasta Internet, Java está en todas partes.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>java</pattern>
+    <template>
+    Java es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems. Hay muchas aplicaciones y sitios web que no funcionarán a menos que tenga Java instalado y cada día se crean más. Java es rápido, seguro y fiable. Desde portátiles hasta centros de datos, desde consolas para juegos hasta súper computadoras, desde teléfonos móviles hasta Internet, Java está en todas partes.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es la informática</pattern>
+    <template>
+    La informática, también llamada computación,1​ es una ciencia que estudia métodos, técnicas, procesos, con el fin de almacenar, procesar y transmitir información y datos en formato digital.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>informática</pattern>
+    <template>
+    La informática, también llamada computación,1​ es una ciencia que estudia métodos, técnicas, procesos, con el fin de almacenar, procesar y transmitir información y datos en formato digital.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es una computadora</pattern>
+    <template>
+    Máquina electrónica capaz de almacenar información y tratarla automáticamente mediante operaciones matemáticas y lógicas controladas por programas informáticos.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>computadora</pattern>
+    <template>
+    Máquina electrónica capaz de almacenar información y tratarla automáticamente mediante operaciones matemáticas y lógicas controladas por programas informáticos.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es una base de datos</pattern>
+    <template>
+   Una base de datos o banco de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso. En este sentido; una biblioteca puede considerarse una base de datos compuesta en su mayoría por documentos y textos impresos en papel e indexados para su consulta.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>base de datos</pattern>
+    <template>
+   Una base de datos o banco de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso. En este sentido; una biblioteca puede considerarse una base de datos compuesta en su mayoría por documentos y textos impresos en papel e indexados para su consulta.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es una estructura repititiva</pattern>
+    <template>
+  Las estructuras repetitivas se utilizan cuando se quiere que un conjunto de instrucciones se ejecuten un cierto número finito de veces.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>estructura repititiva</pattern>
+    <template>
+  Las estructuras repetitivas se utilizan cuando se quiere que un conjunto de instrucciones se ejecuten un cierto número finito de veces.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>que es android</pattern>
+    <template>
+  Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas y también para relojes inteligentes, televisores y automóviles. Inicialmente fue desarrollado por Android Inc., empresa que Google respaldó económicamente y más tarde, en 2005, compró.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>android</pattern>
+    <template>
+  Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas y también para relojes inteligentes, televisores y automóviles. Inicialmente fue desarrollado por Android Inc., empresa que Google respaldó económicamente y más tarde, en 2005, compró.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>que es un kernel</pattern>
+    <template>
+  En informática, un núcleo o kernel (de la raíz germánica Kern, núcleo, hueso) es un software que constituye una parte fundamental del sistema operativo, y se define como la parte que se ejecuta en modo privilegiado (conocido también como modo núcleo).Es el principal responsable de facilitar a los distintos programas acceso seguro al hardware de la computadora o en forma básica, es el encargado de gestionar recursos, a través de servicios de llamada al sistema
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>kernel</pattern>
+    <template>
+  En informática, un núcleo o kernel (de la raíz germánica Kern, núcleo, hueso) es un software que constituye una parte fundamental del sistema operativo, y se define como la parte que se ejecuta en modo privilegiado (conocido también como modo núcleo).Es el principal responsable de facilitar a los distintos programas acceso seguro al hardware de la computadora o en forma básica, es el encargado de gestionar recursos, a través de servicios de llamada al sistema
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es un evento</pattern>
+    <template>
+Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>evento</pattern>
+    <template>
+Los eventos son todas las acciones que el usuario inicia, dar clic sobre un botón, presionar las teclas del teclado, etc.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Que es el SDK</pattern>
+    <template>
+El SDK (Software Development Kit) de Android, incluye un conjunto de herramientas de desarrollo.2​ Comprende un depurador de código, biblioteca, un simulador de teléfono basado en QEMU, documentación, ejemplos de código y tutoriales. Las plataformas de desarrollo soportadas incluyen GNU/Linux, Mac OS X 10.5.8 o posterior, y Windows XP o posterior. 
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>SDK</pattern>
+    <template>
+El SDK (Software Development Kit) de Android, incluye un conjunto de herramientas de desarrollo.2​ Comprende un depurador de código, biblioteca, un simulador de teléfono basado en QEMU, documentación, ejemplos de código y tutoriales. Las plataformas de desarrollo soportadas incluyen GNU/Linux, Mac OS X 10.5.8 o posterior, y Windows XP o posterior. 
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Que es android studio</pattern>
+    <template>
+Android Studio es el entorno de desarrollo integrado oficial para la plataforma Android. Fue anunciado el 16 de mayo de 2013 en la conferencia Google I/O, y reemplazó a Eclipse como el IDE oficial para el desarrollo de aplicaciones para Android. La primera versión estable fue publicada en diciembre de 2014.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>android studio</pattern>
+    <template>
+Android Studio es el entorno de desarrollo integrado oficial para la plataforma Android. Fue anunciado el 16 de mayo de 2013 en la conferencia Google I/O, y reemplazó a Eclipse como el IDE oficial para el desarrollo de aplicaciones para Android. La primera versión estable fue publicada en diciembre de 2014.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Que es eclipse</pattern>
+    <template>
+Eclipse es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido", opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores. Esta plataforma, típicamente ha sido usada para desarrollar entornos de desarrollo integrados (del inglés IDE), como el IDE de Java llamado Java Development Toolkit (JDT) y el compilador (ECJ) que se entrega como parte de Eclipse (y que son usados también para desarrollar el mismo Eclipse).
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>eclipse</pattern>
+    <template>
+Eclipse es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido", opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores. Esta plataforma, típicamente ha sido usada para desarrollar entornos de desarrollo integrados (del inglés IDE), como el IDE de Java llamado Java Development Toolkit (JDT) y el compilador (ECJ) que se entrega como parte de Eclipse (y que son usados también para desarrollar el mismo Eclipse).
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Controles basicos en Android</pattern>
+    <template>
+        Te recomiendo esta pagina web para aprender de controles basicos
+http://www.sgoliver.net/blog/interfaz-de-usuario-en-android-controles-basicos-ii/
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es un método</pattern>
+    <template>
+      En la programación, un método es una subrutina cuyo código es definido en una clase y puede pertenecer tanto a una clase, como es el caso de los métodos de clase o estáticos, como a un objeto, como es el caso de los métodos de instancia.
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>método</pattern>
+    <template>
+      En la programación, un método es una subrutina cuyo código es definido en una clase y puede pertenecer tanto a una clase, como es el caso de los métodos de clase o estáticos, como a un objeto, como es el caso de los métodos de instancia.
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>que es una clase</pattern>
+    <template>
+      es un modelo que define un conjunto de variables -el estado, y métodos apropiados para operar con dichos datos -el comportamiento. Cada objeto creado a partir de la clase se denomina instancia de la clase. Las clases son un pilar fundamental de la programación orientada a objetos.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>clase</pattern>
+    <template>
+      es un modelo que define un conjunto de variables -el estado, y métodos apropiados para operar con dichos datos -el comportamiento. Cada objeto creado a partir de la clase se denomina instancia de la clase. Las clases son un pilar fundamental de la programación orientada a objetos.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es dalvik</pattern>
+    <template>
+      Dalvik es la máquina virtual que utiliza la plataforma para dispositivos móviles Android. Dalvik ha sido diseñada por Dan Bornstein con contribuciones de otros ingenieros de Google.
+
+La Máquina Virtual Dalvik (DVM) permite ejecutar aplicaciones programadas en Java. La DVM no afirma ser una máquina virtual de java (JVM) debido a que le ocasionaría problemas de licenciamiento, sin embargo cumple ese propósito. La mayoría de los programas escritos en Java 5 pueden correr sobre la DVM.
+
+DVM sacrifica la portabilidad que caracteriza a Java para poder crear aplicaciones con un mejor rendimiento y menor consumo de energía, estas dos características son extremadamente importantes en dispositivos móviles, debido a que la capacidad de las baterías en estos dispositivos es limitada.
+
+DVM está optimizada para requerir poca memoria y está diseñada para permitir ejecutar varias instancias de la máquina virtual simultáneamente, delegando en el sistema operativo subyacente el soporte de aislamiento de procesos, gestión de memoria e hilos.
+
+A menudo Dalvik es nombrada como una máquina virtual Java, pero esto no es estrictamente correcto, ya que el bytecode con el que opera no es Java bytecode. Sin embargo, la herramienta dx incluida en el SDK de Android permite transformar los archivos Class de Java compilados por un compilador Java al formato de archivos Dex.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>dalvik</pattern>
+    <template>
+      Dalvik es la máquina virtual que utiliza la plataforma para dispositivos móviles Android. Dalvik ha sido diseñada por Dan Bornstein con contribuciones de otros ingenieros de Google.
+
+La Máquina Virtual Dalvik (DVM) permite ejecutar aplicaciones programadas en Java. La DVM no afirma ser una máquina virtual de java (JVM) debido a que le ocasionaría problemas de licenciamiento, sin embargo cumple ese propósito. La mayoría de los programas escritos en Java 5 pueden correr sobre la DVM.
+
+DVM sacrifica la portabilidad que caracteriza a Java para poder crear aplicaciones con un mejor rendimiento y menor consumo de energía, estas dos características son extremadamente importantes en dispositivos móviles, debido a que la capacidad de las baterías en estos dispositivos es limitada.
+
+DVM está optimizada para requerir poca memoria y está diseñada para permitir ejecutar varias instancias de la máquina virtual simultáneamente, delegando en el sistema operativo subyacente el soporte de aislamiento de procesos, gestión de memoria e hilos.
+
+A menudo Dalvik es nombrada como una máquina virtual Java, pero esto no es estrictamente correcto, ya que el bytecode con el que opera no es Java bytecode. Sin embargo, la herramienta dx incluida en el SDK de Android permite transformar los archivos Class de Java compilados por un compilador Java al formato de archivos Dex.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>Que es un sistema operativo</pattern>
+    <template>
+      Un sistema operativo (SO o, frecuentemente, OS —del inglés operating system—) es el software principal o conjunto de programas de un sistema informático que gestiona los recursos de hardware y provee servicios a los programas de aplicación de software, ejecutándose en modo privilegiado respecto de los restantes (aunque puede que parte de él se ejecute en espacio de usuario).
+
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>sistema operativo</pattern>
+    <template>
+      Un sistema operativo (SO o, frecuentemente, OS —del inglés operating system—) es el software principal o conjunto de programas de un sistema informático que gestiona los recursos de hardware y provee servicios a los programas de aplicación de software, ejecutándose en modo privilegiado respecto de los restantes (aunque puede que parte de él se ejecute en espacio de usuario).
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es un software</pattern>
+    <template>
+     Se conoce como software1​ al soporte lógico de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware. La interacción entre el Software y el Hardware hace operativa una computadora (u otro dispositivo), es decir, el Software envía instrucciones que el Hardware ejecuta, haciendo posible su funcionamiento.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>software</pattern>
+    <template>
+     Se conoce como software1​ al soporte lógico de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware. La interacción entre el Software y el Hardware hace operativa una computadora (u otro dispositivo), es decir, el Software envía instrucciones que el Hardware ejecuta, haciendo posible su funcionamiento.
+
+    </template>
+     
+  </category>
+  
+    <category>
+    <pattern>que es una aplicacion informática</pattern>
+    <template>
+    En informática, una aplicación es un programa informático diseñado como herramienta para permitir a un usuario realizar uno o diversos tipos de tareas. Esto lo diferencia principalmente de otros tipos de programas, como los sistemas operativos (que hacen funcionar la computadora), las utilidades (que realizan tareas de mantenimiento o de uso general), y las herramientas de desarrollo de software (para crear programas informáticos). Las aplicaciones pertenecen al software de aplicación.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>aplicacion informática</pattern>
+    <template>
+    En informática, una aplicación es un programa informático diseñado como herramienta para permitir a un usuario realizar uno o diversos tipos de tareas. Esto lo diferencia principalmente de otros tipos de programas, como los sistemas operativos (que hacen funcionar la computadora), las utilidades (que realizan tareas de mantenimiento o de uso general), y las herramientas de desarrollo de software (para crear programas informáticos). Las aplicaciones pertenecen al software de aplicación.
+
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>App</pattern>
+    <template>
+    En informática, una aplicación es un programa informático diseñado como herramienta para permitir a un usuario realizar uno o diversos tipos de tareas. Esto lo diferencia principalmente de otros tipos de programas, como los sistemas operativos (que hacen funcionar la computadora), las utilidades (que realizan tareas de mantenimiento o de uso general), y las herramientas de desarrollo de software (para crear programas informáticos). Las aplicaciones pertenecen al software de aplicación.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es una app</pattern>
+    <template>
+    En informática, una aplicación es un programa informático diseñado como herramienta para permitir a un usuario realizar uno o diversos tipos de tareas. Esto lo diferencia principalmente de otros tipos de programas, como los sistemas operativos (que hacen funcionar la computadora), las utilidades (que realizan tareas de mantenimiento o de uso general), y las herramientas de desarrollo de software (para crear programas informáticos). Las aplicaciones pertenecen al software de aplicación.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es una CPU</pattern>
+    <template>
+    La unidad central de procesamiento o unidad de procesamiento central (conocida por las siglas CPU, del inglés: central processing unit), es el hardware dentro de un ordenador u otros dispositivos programables, que interpreta las instrucciones de un programa informático mediante la realización de las operaciones básicas aritméticas, lógicas y de entrada/salida del sistema. El término, y su acrónimo, han estado en uso en la industria de la Informática por lo menos desde el principio de los años 1960.1​ La forma, el diseño de CPU y la implementación de las CPU ha cambiado drásticamente desde los primeros ejemplos, pero su operación fundamental sigue siendo la misma
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>CPU</pattern>
+    <template>
+    La unidad central de procesamiento o unidad de procesamiento central (conocida por las siglas CPU, del inglés: central processing unit), es el hardware dentro de un ordenador u otros dispositivos programables, que interpreta las instrucciones de un programa informático mediante la realización de las operaciones básicas aritméticas, lógicas y de entrada/salida del sistema. El término, y su acrónimo, han estado en uso en la industria de la Informática por lo menos desde el principio de los años 1960.1​ La forma, el diseño de CPU y la implementación de las CPU ha cambiado drásticamente desde los primeros ejemplos, pero su operación fundamental sigue siendo la misma
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es el hardware</pattern>
+    <template>
+  La palabra hardware en informática se refiere a las partes físicas tangibles de un sistema informático; sus componentes eléctricos, electrónicos, electromecánicos y mecánicos.1​ Cables, gabinetes o cajas, periféricos de todo tipo y cualquier otro elemento físico involucrado componen el hardware; contrariamente, el soporte lógico e intangible es el llamado software.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>hardware</pattern>
+    <template>
+  La palabra hardware en informática se refiere a las partes físicas tangibles de un sistema informático; sus componentes eléctricos, electrónicos, electromecánicos y mecánicos.1​ Cables, gabinetes o cajas, periféricos de todo tipo y cualquier otro elemento físico involucrado componen el hardware; contrariamente, el soporte lógico e intangible es el llamado software.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es un disco duro</pattern>
+    <template>
+  En informática, la unidad de disco duro o unidad de disco rígido (en inglés: Hard Disk Drive, HDD) es el dispositivo de almacenamiento de datos que emplea un sistema de grabación magnética para almacenar archivos digitales. Se compone de uno o más platos o discos rígidos, unidos por un mismo eje que gira a gran velocidad dentro de una caja metálica sellada. Sobre cada plato, y en cada una de sus caras, se sitúa un cabezal de lectura/escritura que flota sobre una delgada lámina de aire generada por la rotación de los discos. Es memoria no volátil.
+
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>disco duro</pattern>
+    <template>
+  En informática, la unidad de disco duro o unidad de disco rígido (en inglés: Hard Disk Drive, HDD) es el dispositivo de almacenamiento de datos que emplea un sistema de grabación magnética para almacenar archivos digitales. Se compone de uno o más platos o discos rígidos, unidos por un mismo eje que gira a gran velocidad dentro de una caja metálica sellada. Sobre cada plato, y en cada una de sus caras, se sitúa un cabezal de lectura/escritura que flota sobre una delgada lámina de aire generada por la rotación de los discos. Es memoria no volátil.
+
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>hdd</pattern>
+    <template>
+  En informática, la unidad de disco duro o unidad de disco rígido (en inglés: Hard Disk Drive, HDD) es el dispositivo de almacenamiento de datos que emplea un sistema de grabación magnética para almacenar archivos digitales. Se compone de uno o más platos o discos rígidos, unidos por un mismo eje que gira a gran velocidad dentro de una caja metálica sellada. Sobre cada plato, y en cada una de sus caras, se sitúa un cabezal de lectura/escritura que flota sobre una delgada lámina de aire generada por la rotación de los discos. Es memoria no volátil.
+
+    </template>
+     
+  </category>
+  
+   <category>
+    <pattern>que es una memoria RAM</pattern>
+    <template>
+  La memoria de acceso aleatorio (Random Access Memory, RAM) se utiliza como memoria de trabajo de computadoras y otros dispositivos para el sistema operativo, los programas y la mayor parte del software. En la RAM se cargan todas las instrucciones que ejecuta la unidad central de procesamiento (procesador) y otras unidades del computador, además de contener los datos que manipulan los distintos programas.
+
+    </template>
+     
+  </category>
+  
+  <category>
+    <pattern>memoria RAM</pattern>
+    <template>
+  La memoria de acceso aleatorio (Random Access Memory, RAM) se utiliza como memoria de trabajo de computadoras y otros dispositivos para el sistema operativo, los programas y la mayor parte del software. En la RAM se cargan todas las instrucciones que ejecuta la unidad central de procesamiento (procesador) y otras unidades del computador, además de contener los datos que manipulan los distintos programas.
+
+    </template>
+    
+    </category>
+    
+    <category>
+    <pattern>RAM</pattern>
+    <template>
+  La memoria de acceso aleatorio (Random Access Memory, RAM) se utiliza como memoria de trabajo de computadoras y otros dispositivos para el sistema operativo, los programas y la mayor parte del software. En la RAM se cargan todas las instrucciones que ejecuta la unidad central de procesamiento (procesador) y otras unidades del computador, además de contener los datos que manipulan los distintos programas.
+
+    </template>
+    
+    </category>
+    
+     <category>
+    <pattern>que es un disco de estado sólido</pattern>
+    <template>
+ La unidad de estado sólido, dispositivo de estado sólido o SSD (acrónimo inglés de solid-state drive) es un tipo de dispositivo de almacenamiento de datos que utiliza memoria no volátil, como la memoria flash, para almacenar datos, en lugar de los platos o discos magnéticos de las unidades de discos duros (HDD) convencionales.
+
+    </template>
+    
+    </category>
+    
+      <category>
+    <pattern>disco de estado sólido</pattern>
+    <template>
+ La unidad de estado sólido, dispositivo de estado sólido o SSD (acrónimo inglés de solid-state drive) es un tipo de dispositivo de almacenamiento de datos que utiliza memoria no volátil, como la memoria flash, para almacenar datos, en lugar de los platos o discos magnéticos de las unidades de discos duros (HDD) convencionales.
+
+    </template>
+    
+    </category>
+    
+     <category>
+    <pattern>SSD</pattern>
+    <template>
+ La unidad de estado sólido, dispositivo de estado sólido o SSD (acrónimo inglés de solid-state drive) es un tipo de dispositivo de almacenamiento de datos que utiliza memoria no volátil, como la memoria flash, para almacenar datos, en lugar de los platos o discos magnéticos de las unidades de discos duros (HDD) convencionales.
+
+    </template>
+    
+    </category>
+    
+    <category>
+    <pattern>Estructura basica java</pattern>
+    <template>
+ public class nombreclase{
+   public static void main(String args[])   {
+
+      System.out.println("Hola mundo");
+      
+   }
+}
+
+    </template>
+    
+    </category>
+    
+      <category>
+    <pattern>Estructura basica android</pattern>
+    <template>
+ Estructura de una aplicación android
+Toda aplicación que crees para android sigue una misma estructura básica, que se compone del código fuente en sí, archivos de recursos y vistas, librerías de código y el android manifest.
+
+Directorio SRC
+Se encuentra toda la lógica de aplicación, todas las clases programadas en JAVA. Dentro de ella puedes definir distintos paquetes, donde puedes dividir en capas tus reglas de negocio.
+
+Android Library
+Aquí se encuentran todas las librerías propias del SDK de android, dependiendo la versión elegida al crear el proyecto tendrá una versión u otra.
+
+Directorios RES
+Se encuentran todos los archivos con los recursos que usan la aplicación. Las imágenes, archivos de idiomas, estilos, etc.. Un pequeños listado de estos puede ser:
+
+Drawable => Carpeta con todas las imágenes de la app. Se subdivide en múltiples carpetas desde la versión 1.6, que contienen las imágenes en distintas resoluciones y tamaños que se usarán dependiendo el dispositivo usado.
+Directorio layout => Aquí se encuentran las distintas “pantallas” de la aplicación, es decir, los archivos xml con las interfaces visual asociadas a las activities.
+Values => Carpeta con los xml de contenido de la app. En ella puede haber definidas las constantes de la aplicación, dando la posibilidad del multidioma. También puedes definir estilos para tus componentes. Y todo tipo de configuraciones.
+Directorio bin
+Aquí se encuentran todos los archivos generados por la propia app. Como sabeis, android usa la máquina virtual dalvik, primero se traduce a los típicos archivos .class de java y posteriormente es traducido a los archivo .dex propios de android.
+
+También esta el ejecutable de la aplicación "apk", sería el equivalente a los "exe" de windows. Es el archivo que deberías instalar en cualquier teléfono android para probar la aplicación.
+
+Directorio gen
+En esta carpeta esta el archivo R.class, éste contiene lo identificadores los recursos usados por tu proyecto: imágenes, layout, etc...
+
+Directorio assests
+Carpeta donde se encuentran los archivos auxiliares de tu aplicación: imágenes, audios, vídeos... la diferencia con los que se encuentran con la carpeta "RES", es que los archivos incluidos aquí no generarán un identificador dentro del archivo R.class anteriormente descrito.
+
+Para usar estos archivos, en vez de referenciarlos por un ID, habría que usar la ruta física como cualquier otro archivo
+
+Directorio lib
+Aquí irán las librerías externas importados que necesites. Por ejemplo, si deseas meter publicidad en tu app, aquí ira la librería necesaria para ello.
+
+Andoid Manifest
+Archivo básico de configuración de toda aplicación android. En el se definen todas las activities de la app, sus permisos, etc...
+
+    </template>
+    
+    </category>
+  
+   <category>
+    <pattern>que es xml</pattern>
+    <template>
+        XML, siglas en inglés de eXtensible Markup Language, traducido como "Lenguaje de Marcado Extensible" o "Lenguaje de Marcas Extensible", es un meta-lenguaje que permite definir lenguajes de marcas desarrollado por el World Wide Web Consortium (W3C) utilizado para almacenar datos en forma legible. Proviene del lenguaje SGML y permite definir la gramática de lenguajes específicos (de la misma manera que HTML es a su vez un lenguaje definido por SGML) para estructurar documentos grandes. A diferencia de otros lenguajes, XML da soporte a bases de datos, siendo útil cuando varias aplicaciones deben comunicarse entre sí o integrar información.
+        </template>
+    
+     
+  </category>
+  
+  <category>
+    <pattern>xml</pattern>
+    <template>
+        XML, siglas en inglés de eXtensible Markup Language, traducido como "Lenguaje de Marcado Extensible" o "Lenguaje de Marcas Extensible", es un meta-lenguaje que permite definir lenguajes de marcas desarrollado por el World Wide Web Consortium (W3C) utilizado para almacenar datos en forma legible. Proviene del lenguaje SGML y permite definir la gramática de lenguajes específicos (de la misma manera que HTML es a su vez un lenguaje definido por SGML) para estructurar documentos grandes. A diferencia de otros lenguajes, XML da soporte a bases de datos, siendo útil cuando varias aplicaciones deben comunicarse entre sí o integrar información.
+        </template>
+    
+     
+  </category>
+
+
+</aiml>

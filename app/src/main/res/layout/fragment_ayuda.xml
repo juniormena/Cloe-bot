@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#531130"
+    tools:context="com.example.junio.itlasiano.ayudaFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:text="Donde se puede contactar con nosotros"
+        android:textColor="@android:color/white"
+        android:textSize="36sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:text="cloe130108@gmail.com"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:layout_marginStart="19dp"
+        android:fontFamily="serif"
+        android:text="Que es android studio?\nQue es un SDK?\nQue es la programacion?\nQue es una estrutura repetitiva? "
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView5"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="33dp"
+        android:text="Como preguntar a Cloe:"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        android:typeface="sans" />
+
+
+</RelativeLayout>
